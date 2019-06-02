@@ -1,2 +1,2 @@
 # Auto
-Java project based on cars
+A Java application developed during OOP course at university.
